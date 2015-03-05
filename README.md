@@ -33,8 +33,6 @@ http://www.city.urayasu.lg.jp/shisei/keikaku/joho/1007718.html
 
 データ一覧
 
-下記一覧からダウンロードできます。
-
     原則、住所情報を持ったデータはxy座標付きのcsvで、それ以外のデータはshape（Zip形式で掲載）で公開します。
     shapeは、地理情報システム（GIS：Geographic Information System）などでご利用できます。
     浦安市地形図データは、日本測地系、平面直角座標系9系　です。
@@ -42,7 +40,7 @@ http://www.city.urayasu.lg.jp/shisei/keikaku/joho/1007718.html
 
 浦安市地形図データ
 
-    浦安市地形図 （Zip 6.9MB）新しいウィンドウで開きます
+    浦安市地形図 （Zip 6.9MB）
     ※データ作成年月日：平成26年1月1日
 
 公共施設に関する地図データ
